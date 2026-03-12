@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Algorithm Engineer at Alibaba Group, where I am a member of the prestigious T-Star Talent Program within the Taobao and Tmall Group (TTG). I earned my Ph.D. from the University of Science and Technology of China (USTC) and my Bachelor's degree from Xi'an Jiaotong University (XJTU).
+I am an Algorithm Engineer at Alibaba Group, where I am a member of the prestigious T-Star Talent Program within the Taobao and Tmall Group (TTG). I earned my Ph.D. from the University of Science and Technology of China (USTC, advised by [Dong Liu](https://faculty.ustc.edu.cn/dongeliu/)) and my Bachelor's degree from Xi'an Jiaotong University (XJTU).
 
 My research focuses on Multimedia AIGC, with specific interests in:
 
@@ -44,7 +44,7 @@ I have published several papers in top-tier conferences and journals, including 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/isvi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Inertia-guided flow completion and style fusion for video inpainting](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.pdf)
@@ -72,4 +72,4 @@ ISVI is a novel flow-guided video inpainting system that integrates inertia into
 - *2022.10*, Flow-Guided Transformer for Video Inpainting \| [\[video\]](https://course.zhidx.com/c/NDNlYWQyNmIyZjQwOTdhOWUzODM=)
 
 # 💻 Internships
-- *2020.08 - 2022.02*, Microsoft research Asia (MSRA), China.
+- *2020.08 - 2022.02*, Microsoft research Asia (MSRA), China, advised by [Jingjing Fu](https://scholar.google.com/citations?user=w-6C7LkAAAAJ&hl=en).
