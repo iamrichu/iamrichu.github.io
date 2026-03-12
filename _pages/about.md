@@ -44,6 +44,20 @@ I have published several papers in top-tier conferences and journals, including 
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/fgtpp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Toward interactive image inpainting via robust sketch refinement](https://ieeexplore.ieee.org/abstract/document/10533842)
+
+Chang Liu, Shunxin Xu, Jialun Peng, **Kaidong Zhang**, Dong Liu
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10533842)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+This paper explores the guidance of sketch in image inpainting. It seperates the completion of sketch and image and designs two specialized networks for excellent image inpainting performance.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/fgtpp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
