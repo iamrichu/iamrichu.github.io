@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Kaidong Zhang (张凯栋)"
-description              : "Taobao & Tmall Group of Alibaba"
+description              : "Alibaba"
 repository               : "iamrichu/iamrichu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/android-chrome-192x192.png"
   bio              : "University of Science and Technology of China"
   location         : "Beijing, China"
-  employer         : "Taobao & Tmall Group of Alibaba"
+  employer         : "Alibaba"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oDbvhiQAAAAJ"
   email            : "richu@mail.ustc.edu.cn"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "@hitachinsk"
+  github           : "hitachinsk"
   google_plus      :
   keybase          :
   instagram        :
@@ -55,7 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@kaidongzhang2830"
+  youtube          : "@kaidongzhang2830"
   wikipedia        :
 
 
