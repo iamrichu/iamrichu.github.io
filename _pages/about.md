@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an Algorithm Engineer at Alibaba Group, where I am a member of the prestigious T-Star Talent Program within the Taobao and Tmall Group (TTG). I earned my Ph.D. from the University of Science and Technology of China (USTC, advised by [Dong Liu](https://faculty.ustc.edu.cn/dongeliu/)) and my Bachelor's degree from Xi'an Jiaotong University (XJTU).
+I am a  senior algorithm engineer at Alibaba Group, where I am a member of the prestigious T-Star Talent Program within the Taobao and Tmall Group (TTG). I earned my Ph.D. from the University of Science and Technology of China (USTC, advised by [Dong Liu](https://faculty.ustc.edu.cn/dongeliu/)) and my Bachelor's degree from Xi'an Jiaotong University (XJTU).
 
 My research focuses on Multimedia AIGC, with specific interests in:
 
