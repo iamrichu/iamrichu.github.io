@@ -164,6 +164,21 @@ ISVI is a novel flow-guided video inpainting system that integrates inertia into
 
 # 📝 Arxiv Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/femoral.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Dataset for Deep Learning-based Bone Structure Analyses in Total Hip Arthroplasty](https://arxiv.org/pdf/2306.04579)
+
+**Kaidong Zhang**, Ziyang Gan, Dong Liu, Xifu Shang
+
+[\[Paper\]](https://arxiv.org/pdf/2306.04579)
+[\[Code\]](https://github.com/hitachinsk/THA)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+The researchers propose an efficient bone structure annotation pipeline that combines non-learning-based segmentation (using graph-cut and gradient-based algorithms) with active-learning-based refinement to create a large-scale, high-quality THA dataset with minimal manual labeling.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/samed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
