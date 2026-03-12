@@ -44,6 +44,21 @@ I have published several papers in top-tier conferences and journals, including 
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/fgt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Flow-Guided Transformer for Video Inpainting](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780072.pdf)
+
+**Kaidong Zhang**, Jingjing Fu, Dong Liu
+
+[\[Paper\]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780072.pdf)
+[\[Code\]](https://github.com/hitachinsk/FGT)
+[\[Video\]](https://www.youtube.com/watch?v=GGZwkpf7xwo) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+ISVI is the first video inpainting framework that utilizes the optical flows to influence attention calculation in transfomer for video inpainting with higher fidelity.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/isvi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
