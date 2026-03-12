@@ -44,6 +44,21 @@ I have published several papers in top-tier conferences and journals, including 
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/lacon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LaCon: Late-Constraint Diffusion for Steerable Guided Image Synthesis](https://arxiv.org/abs/2305.11520)
+
+Chang Liu, Rui Li, **Kaidong Zhang**, Xin Luo, Dong Liu
+
+[\[Paper\]](https://arxiv.org/abs/2305.11520)
+[\[Code\]](https://github.com/AlonzoLeeeooo/LCDG)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+LaCon is a flexible and efficient "late-constraint" paradigm that achieves steerable image synthesis by aligning external conditions with the internal features of pre-trained diffusion models to guide the sampling process without requiring extra modules or heavy parameter optimization.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/stablev2v.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
