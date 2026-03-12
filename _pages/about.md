@@ -17,14 +17,30 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am an Algorithm Engineer at Alibaba Group, where I am a member of the prestigious T-Star Talent Program within the Taobao and Tmall Group (TTG). I earned my Ph.D. from the University of Science and Technology of China (USTC) and my Bachelor's degree from Xi'an Jiaotong University (XJTU).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on Multimedia AIGC, with specific interests in:
+
+- Post-training for Video Foundation Models.
+
+- Reinforcement Learning (RL) applications in Diffusion Models.
+
+- Video Completion and Synthesis.
+
+I have published several papers in top-tier conferences and journals, including CVPR, ECCV, and TPAMI.
+
+🔥 We are hiring! Our team is constantly looking for motivated interns. If you are interested in pushing the boundaries of generative AI, please reach out to me at: richu@mail.ustc.edu.cn.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 One paper is accepted to CVPR 2026
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted to TIP
+- *2025.12*: &nbsp;🎉🎉 One paper is accepted to TCSVT
+- *2025.08*: &nbsp;🎉🎉 One paper is accepted to TCSVT
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted to TMM
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted to TPAMI
+- *2022.07*: &nbsp;🎉🎉 One paper is accepted to ECCV 2022
+- *2025.02*: &nbsp;🎉🎉 One paper is accepted to CVPR 2022
 
 # 📝 Publications 
 
@@ -35,8 +51,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Kaidong Zhang**, Jingjing Fu, Dong Liu
 
-[**Project**](https://github. com/hitachinsk/ISVI) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.pdf)
+[\[Code\]](https://github.com/hitachinsk/ISVI)
+[\[Video\]](https://www.youtube.com/watch?v=vR9GQNRqob8) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+ISVI is a novel flow-guided video inpainting system that integrates inertia into flow completion and adopts additional style correction to produce completed videos with high fidelity.
 </div>
 </div>
 
