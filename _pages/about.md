@@ -33,18 +33,32 @@ I have published several papers in top-tier conferences and journals, including 
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 One paper is accepted to CVPR 2026
+- *2026.02*: &nbsp;🎉🎉 LocalDPO is accepted to CVPR 2026
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted to TIP
 - *2025.12*: &nbsp;🎉🎉 One paper is accepted to TCSVT
-- *2025.08*: &nbsp;🎉🎉 One paper is accepted to TCSVT
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted to TMM
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted to TPAMI
-- *2022.07*: &nbsp;🎉🎉 One paper is accepted to ECCV 2022
-- *2025.02*: &nbsp;🎉🎉 One paper is accepted to CVPR 2022
+- *2025.08*: &nbsp;🎉🎉 DrimNeRF is accepted to TCSVT
+- *2024.05*: &nbsp;🎉🎉 SketchRefiner is accepted to TMM
+- *2024.01*: &nbsp;🎉🎉 FGT++ is accepted to TPAMI
+- *2022.07*: &nbsp;🎉🎉 FGT is accepted to ECCV 2022
+- *2025.02*: &nbsp;🎉🎉 ISVI is accepted to CVPR 2022
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/fgtpp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2025</div><img src='images/drim.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Drim-NeRF: Diffusion-Based Restoration for Improving Neural Radiance Fields](https://ieeexplore.ieee.org/abstract/document/11115135)
+
+Ganlin Yang, **Kaidong Zhang**, Jingjing Fu, Dong Liu
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/11115135)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+Drim-NeRF is a diffusion-based, backbone-agnostic restoration method that treats NeRF artifacts as a specific degradation model and utilizes optical flow warping along with feature-wrapping in the VAE decoder to produce high-fidelity, multi-view consistent enhancements for complex scenes.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2024</div><img src='images/sketch.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Toward interactive image inpainting via robust sketch refinement](https://ieeexplore.ieee.org/abstract/document/10533842)
@@ -52,6 +66,7 @@ I have published several papers in top-tier conferences and journals, including 
 Chang Liu, Shunxin Xu, Jialun Peng, **Kaidong Zhang**, Dong Liu
 
 [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10533842)
+[\[Code\]](https://github.com/AlonzoLeeeooo/SketchRefiner)
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 This paper explores the guidance of sketch in image inpainting. It seperates the completion of sketch and image and designs two specialized networks for excellent image inpainting performance.
