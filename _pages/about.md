@@ -44,7 +44,7 @@ I have published several papers in top-tier conferences and journals, including 
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/fgt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/fgtpp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting](https://ieeexplore.ieee.org/abstract/document/10418551/)
@@ -69,7 +69,7 @@ This paper investigates how to use the power of optical flows to guide the video
 [\[Code\]](https://github.com/hitachinsk/FGT)
 [\[Video\]](https://www.youtube.com/watch?v=GGZwkpf7xwo) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
-ISVI is the first video inpainting framework that utilizes the optical flows to influence attention calculation in transfomer for video inpainting with higher fidelity.
+FGT is the first video inpainting framework that utilizes the optical flows to influence attention calculation in transfomer for video inpainting with higher fidelity.
 </div>
 </div>
 
@@ -87,6 +87,24 @@ ISVI is the first video inpainting framework that utilizes the optical flows to 
 ISVI is a novel flow-guided video inpainting system that integrates inertia into flow completion and adopts additional style correction to produce completed videos with high fidelity.
 </div>
 </div>
+
+# 📝 Arxiv Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2023</div><img src='images/samed.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Customized segment anything model for medical image segmentation](https://arxiv.org/pdf/2304.13785)
+
+**Kaidong Zhang**, Dong Liu
+
+[\[Paper\]](https://arxiv.org/pdf/2304.13785)
+[\[Code\]](https://github.com/hitachinsk/SAMed)
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+SAMed is the seminal work that utilizes Segment Anything Model (SAM) in multi-organ segmentation. It achieves remarkable performance and demonstrates the feasibility of SAM in medical usage.
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2022.12* Invited speaker in Youth PhD Talk-ECCV 2022, hosted by AITime.
