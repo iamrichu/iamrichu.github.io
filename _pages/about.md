@@ -42,7 +42,21 @@ I have published several papers in top-tier conferences and journals, including 
 - *2022.07*: &nbsp;🎉🎉 One paper is accepted to ECCV 2022
 - *2025.02*: &nbsp;🎉🎉 One paper is accepted to CVPR 2022
 
-# 📝 Publications 
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/fgt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploiting Optical Flow Guidance for Transformer-Based Video Inpainting](https://ieeexplore.ieee.org/abstract/document/10418551/)
+
+**Kaidong Zhang**, Jialun Peng, Jingjing Fu, Dong Liu
+
+[\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10418551)
+[\[Video\]](https://www.youtube.com/watch?v=cKP20WTS2xA) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+This paper investigates how to use the power of optical flows to guide the video inpainting transformer systematically. It reaches SOTA video inpainting performance against all of the previous counterparts.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/fgt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
