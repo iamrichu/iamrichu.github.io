@@ -58,7 +58,7 @@ LocalDPO is an efficient post-training framework that aligns text-to-video model
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='images/lacon.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2026</div><img src='images/lacon.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LaCon: Late-Constraint Diffusion for Steerable Guided Image Synthesis](https://arxiv.org/abs/2305.11520)
