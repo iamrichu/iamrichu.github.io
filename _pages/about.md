@@ -33,14 +33,14 @@ I have published several papers in top-tier conferences and journals, including 
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 LocalDPO is accepted to CVPR 2026
-- *2026.01*: &nbsp;🎉🎉 LaCon is accepted to TIP
-- *2025.12*: &nbsp;🎉🎉 StableV2V is accepted to TCSVT
-- *2025.08*: &nbsp;🎉🎉 DrimNeRF is accepted to TCSVT
-- *2024.05*: &nbsp;🎉🎉 SketchRefiner is accepted to TMM
-- *2024.01*: &nbsp;🎉🎉 FGT++ is accepted to TPAMI
-- *2022.07*: &nbsp;🎉🎉 FGT is accepted to ECCV 2022
-- *2025.02*: &nbsp;🎉🎉 ISVI is accepted to CVPR 2022
+- *2026.02*: &nbsp;🎉🎉 [LocalDPO](https://arxiv.org/pdf/2601.04068) is accepted to CVPR 2026
+- *2026.01*: &nbsp;🎉🎉 [LaCon](https://arxiv.org/abs/2305.11520) is accepted to TIP
+- *2025.12*: &nbsp;🎉🎉 [StableV2V](https://ieeexplore.ieee.org/abstract/document/11272911) is accepted to TCSVT
+- *2025.08*: &nbsp;🎉🎉 [DrimNeRF](https://ieeexplore.ieee.org/abstract/document/11115135) is accepted to TCSVT
+- *2024.05*: &nbsp;🎉🎉 [SketchRefiner](https://ieeexplore.ieee.org/abstract/document/10533842) is accepted to TMM
+- *2024.01*: &nbsp;🎉🎉 [FGT++](https://ieeexplore.ieee.org/abstract/document/10418551/) is accepted to TPAMI
+- *2022.07*: &nbsp;🎉🎉 [FGT](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136780072.pdf) is accepted to ECCV 2022
+- *2022.02*: &nbsp;🎉🎉 [ISVI](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Inertia-Guided_Flow_Completion_and_Style_Fusion_for_Video_Inpainting_CVPR_2022_paper.pdf) is accepted to CVPR 2022
 
 # 📝 Publications
 
