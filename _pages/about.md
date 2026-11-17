@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a  senior algorithm engineer at Alibaba Group, where I am a member of the prestigious T-Star Talent Program within the Taobao and Tmall Group (TTG). I earned my Ph.D. from the University of Science and Technology of China (USTC, advised by [Dong Liu](https://faculty.ustc.edu.cn/dongeliu/)) and my Bachelor's degree from Xi'an Jiaotong University (XJTU).
+Kaidong Zhang is a multimodal researcher at a stealth neo lab, and he was a member of the prestigious T-Star Talent Program in the Taobao and Tmall Group (TTG). He earned his Ph.D. from the University of Science and Technology of China (USTC, advised by [Dong Liu](https://faculty.ustc.edu.cn/dongeliu/)) and his Bachelor's degree from Xi'an Jiaotong University (XJTU).
 
-My research focuses on Multimedia AIGC, with specific interests in:
+His research focuses on Multimodal AIGC, with specific interests in:
 
 - Post-training for Video Foundation Models.
 
@@ -27,9 +27,9 @@ My research focuses on Multimedia AIGC, with specific interests in:
 
 - Video Completion and Synthesis.
 
-I have published several papers in top-tier conferences and journals, including CVPR, ECCV, and TPAMI.
+He has published several papers in top-tier conferences and journals, including CVPR, ECCV, and TPAMI.
 
-🔥 We are hiring! Our team is constantly looking for motivated interns. If you are interested in pushing the boundaries of generative AI, please reach out to me at: richu@mail.ustc.edu.cn.
+If you are interested in pushing the boundaries of generative AI, please reach out to me at: richu@mail.ustc.edu.cn.
 
 
 # 🔥 News
